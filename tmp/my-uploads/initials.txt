@@ -1,0 +1,5 @@
+npm init
+npm install express  --save
+npm install polyline  --save
+npm install sqlite3  --save
+npm start
